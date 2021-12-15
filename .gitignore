@@ -1,0 +1,9 @@
+
+
+node_modules/
+
+.env
+backup2.7z
+backup3-Login_y_beneficarios.7z
+backup4-terminado_falta_lasCarpetaas_path.7z
+uploads/**.*
